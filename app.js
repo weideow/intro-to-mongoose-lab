@@ -110,3 +110,6 @@ const deleteCustomer = async() => {
 
 
 connect();
+
+// Credits: https://stackoverflow.com/questions/8059259/creating-a-console-menu-for-user-to-make-a-selection
+// Credits: https://stackoverflow.com/questions/32458427/multiple-menus-with-node-js
